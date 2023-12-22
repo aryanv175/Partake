@@ -1,1 +1,1 @@
-#h1 Open Source Project, class participation
+ Open Source Project, class participation
